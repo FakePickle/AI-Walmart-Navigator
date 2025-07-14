@@ -1,0 +1,1 @@
+ /home/fakepickle/Programming/Git/CartYap/navicart/.dart_tool/flutter_build/985294304a95835888dca6e1495dd08f/native_assets.json: 
